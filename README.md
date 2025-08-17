@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi, I'm Pawan 👋
+A passionate Computer Science student and Full-Stack Mobile App Developer with expertise in building modern apps and integrating AI tools.
 
-<!--
-**pawanbhandarry/pawanbhandarry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 My Skills:
 
-Here are some ideas to get you started:
+📱 Flutter App Development (iOS & Android)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Node.js & Backend Development
+
+🤖 AI Specialist (AI tool integration with mobile apps)
+
+⚡ Full-Stack Mobile App Solutions
+
+💡 Problem-Solving & Scalable App Architecture
