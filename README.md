@@ -1,130 +1,191 @@
-<table>
-<tr>
-<td width="150" valign="middle" align="center">
-  <img src="https://github.com/pawanbhandarry.png?size=300" width="120" alt="Pawan Bhandari" />
-</td>
-<td valign="middle">
+<div align="center">
 
-# Pawan Bhandari
-**Mobile, Web & Applied AI Engineer**<br/>
-<sub>Flutter · Next.js · Node.js · AI Integration</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1020,45:5B21B6,100:06B6D4&text=Pawan%20Bhandari&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Mobile%20%C2%B7%20Web%20%C2%B7%20Applied%20AI%20Engineer&descColor=E0F2FE&descSize=22&descAlignY=58&animation=twinkling" width="100%" alt="Pawan Bhandari" />
 
-<a href="mailto:bhandarrypawan@gmail.com"><img src="https://img.shields.io/badge/GET%20IN%20TOUCH-C9A96E?style=for-the-badge&labelColor=C9A96E&color=C9A96E" alt="Get in touch" /></a>
-<a href="https://linkedin.com/in/pawan-b-rijal-b33654229"><img src="https://img.shields.io/badge/LINKEDIN-0A0A0B?style=for-the-badge&logo=linkedin&logoColor=C9A96E" alt="LinkedIn" /></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=I+build+Flutter+apps+people+actually+use;Next.js+landing+pages+and+dashboards+that+convert;Node.js+backends+that+scale+quietly;AI+features+that+earn+their+place+in+the+product" alt="Typing SVG" />
 
-</td>
-</tr>
-</table>
+<br/><br/>
 
-<table>
-<tr>
-<td align="center" width="20%"><sub>EXPERIENCE</sub><br/><h3>3+</h3><sub>Years</sub></td>
-<td align="center" width="20%"><sub>DELIVERED</sub><br/><h3>20+</h3><sub>Apps</sub></td>
-<td align="center" width="20%"><sub>MOBILE</sub><br/><h3>Flutter</h3><sub>iOS · Android</sub></td>
-<td align="center" width="20%"><sub>WEB</sub><br/><h3>Next.js</h3><sub>Sites · Dashboards</sub></td>
-<td align="center" width="20%"><sub>SPECIALTY</sub><br/><h3>AI</h3><sub>In-app intelligence</sub></td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/3%2B-YEARS%20EXPERIENCE-0B1020?style=for-the-badge&labelColor=0B1020&color=22D3EE" />
+<img src="https://img.shields.io/badge/20%2B-APPS%20SHIPPED-0B1020?style=for-the-badge&labelColor=0B1020&color=8B5CF6" />
+<img src="https://img.shields.io/badge/FULL--STACK-DESIGN%20%E2%86%92%20LAUNCH-0B1020?style=for-the-badge&labelColor=0B1020&color=22D3EE" />
 
-## What's Inside
+<br/><br/>
 
-I build complete digital products: a polished **Flutter** app, a fast **Next.js** landing page and web dashboard, a dependable **Node.js / Express** backend, and **AI features** woven into the experience instead of bolted on.
+### From first idea to live product, I handle the whole build.
+<sub>Mobile app. Web presence. Backend. AI. One accountable engineer, one clear line of communication.</sub>
 
-Alongside client work, I design and ship my own app products as an independent developer.
-
-## Preview
-
-<!-- Replace each placeholder with a real app screenshot (recommended width: 180 to 200). -->
-<table>
-<tr>
-<td align="center"><img src="https://placehold.co/200x420/0A0A0B/C9A96E?text=App+Screen+1" width="180" /></td>
-<td align="center"><img src="https://placehold.co/200x420/0A0A0B/C9A96E?text=App+Screen+2" width="180" /></td>
-<td align="center"><img src="https://placehold.co/200x420/0A0A0B/C9A96E?text=App+Screen+3" width="180" /></td>
-<td align="center"><img src="https://placehold.co/200x420/0A0A0B/C9A96E?text=App+Screen+4" width="180" /></td>
-</tr>
-</table>
-
-## Information
-
-| | |
-|:--|:--|
-| **Developer** | Pawan Bhandari |
-| **Category** | Mobile · Web · Applied AI |
-| **Platforms** | iOS · Android · Web |
-| **Languages** | Dart · TypeScript / JavaScript · Kotlin |
-| **Frameworks** | Flutter · Next.js · React · Express.js |
-| **Backend & Data** | Node.js · Firebase · Supabase · MongoDB · PostgreSQL |
-| **AI** | OpenAI · Gemini · Claude |
-| **Tooling** | Git · Docker · Cloudflare · Figma · Postman |
-| **Engagement** | Freelance projects · Collaborations |
-| **Availability** | Open to select projects |
-
-<details>
-<summary><b>Under the hood</b>: how a typical product fits together</summary>
+</div>
 
 <br/>
 
-```mermaid
-flowchart LR
-    M["Flutter app<br/>iOS · Android"] --> A
-    W["Next.js<br/>Landing · Dashboard"] --> A
-    A["Node.js + Express<br/>REST API · Auth"] --> D[("Firebase · Supabase<br/>MongoDB · PostgreSQL")]
-    A --> L["AI layer<br/>LLM · Vision"]
-    classDef n fill:#0A0A0B,stroke:#C9A96E,color:#E7E5E4,stroke-width:1px;
-    classDef h fill:#1C1917,stroke:#C9A96E,color:#C9A96E,stroke-width:2px;
-    class M,W,D n;
-    class A,L h;
-```
-
-</details>
-
-## More by this Developer
+## Why clients trust me
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**Project Name**<br/>
-<sub>Mobile app · Flutter · Node.js</sub><br/><br/>
-One-line outcome: what it does and for whom.<br/><br/>
-[**OPEN →**](https://github.com/pawanbhandarry)
-
-</td>
-<td width="33%" valign="top">
-
-**Project Name**<br/>
-<sub>Web dashboard · Next.js · Supabase</sub><br/><br/>
-One-line outcome: what it does and for whom.<br/><br/>
-[**OPEN →**](https://github.com/pawanbhandarry)
+### 20+
+**Products delivered**<br/>
+<sub>Client projects and my own indie apps, shipped to real users on real devices, not demos.</sub>
 
 </td>
-<td width="33%" valign="top">
+<td width="33%" valign="top" align="center">
 
-**Project Name**<br/>
-<sub>AI product · Flutter · Express</sub><br/><br/>
-One-line outcome: what it does and for whom.<br/><br/>
-[**OPEN →**](https://github.com/pawanbhandarry)
+### 360°
+**End-to-end ownership**<br/>
+<sub>Interface, app, API, database, deployment and store release. No hand-offs, no gaps.</sub>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+### AI
+**Integrated responsibly**<br/>
+<sub>Secure server-side keys, predictable costs and graceful fallbacks, so AI features stay reliable in production.</sub>
 
 </td>
 </tr>
 </table>
 
-<!--
-## Ratings & Reviews
-Add a real client review here once you have one, for example from Fiverr:
-> ★★★★★ "Short, specific quote about the result you delivered." — Client name
--->
+<br/>
+
+## What I build
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📱 &nbsp;Mobile Apps
+Polished iOS and Android products with custom UI, smooth motion, subscriptions and store-ready releases.
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin&theme=dark" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 🌐 &nbsp;Landing Pages & Web Dashboards
+Fast, responsive marketing sites and admin dashboards with authentication, analytics and live data.
+
+<img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind&theme=dark" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### ⚙️ &nbsp;Backends & APIs
+Secure, well-structured REST services with authentication, real-time data and payments built in.
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,supabase,mongodb,postgres&theme=dark" />
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧠 &nbsp;AI Integration
+My specialty: LLM and vision features inside mobile and web products, from prompt pipelines to streaming UI.
+
+<img src="https://img.shields.io/badge/OpenAI-0B1020?style=for-the-badge&logo=openai&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/Gemini-0B1020?style=for-the-badge&logo=googlegemini&logoColor=8B5CF6" />
+<img src="https://img.shields.io/badge/Claude-0B1020?style=for-the-badge&logo=anthropic&logoColor=22D3EE" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## Products I've built
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Prysm** <sub>· Mobile</sub><br/>
+Premium Flutter wallpaper app with a refined AMOLED and light design system and subscription monetization.
+
+</td>
+<td width="50%" valign="top">
+
+**EduPath** <sub>· Web SaaS · AI</sub><br/>
+Browser-based platform for schools with built-in AI tools for educators.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**Vieve** <sub>· Mobile</sub><br/>
+Migraine and headache tracker designed around fast daily logging and clear patterns.
+
+</td>
+<td width="50%" valign="top">
+
+**ExpenseNest** <sub>· Mobile · Business</sub><br/>
+Business management app focused on expenses, clarity and a clean everyday workflow.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## How a project runs
+
+<table>
+<tr>
+<td align="center" width="20%"><b>01</b><br/><sub>DISCOVER</sub><br/><sub>Goals, scope, users</sub></td>
+<td align="center" width="20%"><b>02</b><br/><sub>DESIGN</sub><br/><sub>UX and visual system</sub></td>
+<td align="center" width="20%"><b>03</b><br/><sub>BUILD</sub><br/><sub>App, web and API</sub></td>
+<td align="center" width="20%"><b>04</b><br/><sub>INTEGRATE AI</sub><br/><sub>Secure and measured</sub></td>
+<td align="center" width="20%"><b>05</b><br/><sub>LAUNCH</sub><br/><sub>Release and iterate</sub></td>
+</tr>
+</table>
+
+<br/>
+
+## Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=flutter,dart,nextjs,react,ts,nodejs,express,firebase,supabase,mongodb,postgres,docker,git,figma,postman,cloudflare&theme=dark&perline=8" />
+
+</div>
+
+<br/>
+
+## Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pawanbhandarry&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=8B5CF6&text_color=C7D2FE&ring_color=22D3EE" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanbhandarry&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=C7D2FE" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawanbhandarry&bg_color=0B1020&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" width="100%" />
+
+</div>
 
 <br/>
 
 <div align="center">
 
-**Have a product to launch or an AI feature to ship?**<br/>
-<sub>I take on a limited number of projects each quarter.</sub>
+### Have a product to launch or an AI feature to ship?
+<sub>I take on a limited number of projects each quarter. Tell me what you're building.</sub>
 
 <br/><br/>
 
-<a href="mailto:bhandarrypawan@gmail.com"><img src="https://img.shields.io/badge/START%20A%20CONVERSATION-C9A96E?style=for-the-badge&logo=gmail&logoColor=0A0A0B" /></a>
-<a href="https://instagram.com/bhandarrypawan77"><img src="https://img.shields.io/badge/INSTAGRAM-0A0A0B?style=for-the-badge&logo=instagram&logoColor=C9A96E" /></a>
+<a href="mailto:bhandarrypawan@gmail.com"><img src="https://img.shields.io/badge/START%20A%20PROJECT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/pawan-b-rijal-b33654229"><img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
+<a href="https://instagram.com/bhandarrypawan77"><img src="https://img.shields.io/badge/INSTAGRAM-0B1020?style=for-the-badge&logo=instagram&logoColor=8B5CF6" /></a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,55:5B21B6,100:0B1020&section=footer" width="100%" />
 
 </div>
+
+<!--
+TRUST BOOSTERS TO ADD LATER (uncomment and fill in):
+
+### Client reviews
+> ★★★★★ "A specific, short quote about the result you delivered." — Client name, platform
+
+[![Fiverr](https://img.shields.io/badge/FIVERR-0B1020?style=for-the-badge&logo=fiverr&logoColor=22D3EE)](YOUR_FIVERR_PROFILE_URL)
+-->
