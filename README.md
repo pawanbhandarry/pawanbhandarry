@@ -1,123 +1,191 @@
+<!-- ===================== HEADER ===================== -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=02569B&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Pawan+%F0%9F%91%8B;Full-Stack+Mobile+App+Developer;Flutter+%7C+AI+Integration+%7C+Backend" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0B1220,50:0D47A1,100:02A8F3&text=Pawan%20Bhandari&fontColor=FFFFFF&fontSize=58&fontAlignY=38&desc=Full-Stack%20Mobile%20Engineer%20%C2%B7%20AI-Powered%20Apps&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3200&pause=900&color=02A8F3&center=true&vCenter=true&width=640&lines=Flutter+%C3%97+Express.js+%C3%97+AI;Shipping+production-grade+mobile+apps;Turning+LLMs+into+real+product+features" alt="Typing SVG" />
+
+<br/>
+
+![Flutter](https://img.shields.io/badge/Flutter-0B1220?style=flat-square&logo=flutter&logoColor=02A8F3)
+![Express](https://img.shields.io/badge/Express.js-0B1220?style=flat-square&logo=express&logoColor=white)
+![AI](https://img.shields.io/badge/AI%20Integration-0B1220?style=flat-square&logo=openai&logoColor=white)
+![Open to work](https://img.shields.io/badge/Open%20to-Freelance%20%26%20Collabs-0D47A1?style=flat-square)
 
 </div>
 
----
+<br/>
 
-### 🚀 About Me
+## ◆ About
 
-I'm a passionate **Computer Science student** and **Full-Stack Mobile App Developer**, focused on building modern, scalable applications and integrating AI tools into real-world products.
+I design and ship **cross-platform mobile apps** end to end: polished Flutter interfaces, a robust Express.js backend, and AI features that feel native to the product rather than bolted on.
 
-I enjoy turning ideas into polished, production-ready apps — from the UI down to the backend and infrastructure powering them.
+With **3+ years of experience** and **20+ apps delivered**, I focus on clean architecture, performance, and products people actually enjoy using. My specialty is **integrating AI into mobile apps**: vision, chat, generation, and smart automation, from prompt design to production APIs.
 
-- 📱 Building cross-platform apps with **Flutter**
-- 🤖 Integrating **AI tools & APIs** into mobile experiences
-- 🌐 Designing and shipping **Node.js backends**
-- 🏗️ Focused on clean architecture and scalable systems
-- 📚 Currently deepening my skills in AI-powered app development
-- 💬 Always open to collaborating on interesting projects
+```text
+const pawan = {
+  role:       "Full-Stack Mobile App Developer",
+  mobile:     ["Flutter", "Dart"],
+  backend:    ["Node.js", "Express.js", "REST APIs"],
+  specialty:  "Integrating AI into mobile apps",
+  approach:   ["Clean architecture", "Scalable systems", "Pixel-level UI"],
+  currently:  "Building AI-first apps & shipping indie products",
+  openTo:     ["Freelance projects", "Collaborations", "Product ideas"],
+};
+```
 
----
+<br/>
 
-### 🔹 What I Do
+## ◆ What I Build
 
-| Area | Details |
-|---|---|
-| 📱 **Mobile Development** | Flutter apps for iOS & Android — from concept to Play Store |
-| 🤖 **AI Integration** | Embedding AI tools & APIs directly into mobile app workflows |
-| 🌐 **Backend Development** | REST APIs & services built with Node.js |
-| ⚡ **Full-Stack Solutions** | End-to-end app delivery — frontend, backend, and deployment |
-| 💡 **Architecture** | Scalable, maintainable app structures built to grow |
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 📱 Mobile Apps
+Production Flutter apps for **iOS & Android**, from concept and UI design to Play Store / App Store release. Smooth animations, solid state management, offline-ready.
 
-### 🌐 Connect With Me
+</td>
+<td width="50%" valign="top">
 
-<p align="left">
-  <a href="https://instagram.com/bhandarrypawan77" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/pawan-b-rijal-b33654229" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:bhandarrypawan@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+### 🤖 AI-Powered Features
+LLM chat, image recognition, content generation, and smart workflows wired directly into app experiences, with secure server-side API handling.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### 💻 Tech Stack
+### ⚙️ Backend & APIs
+Scalable **Express.js** services, authentication, real-time data, payments, and cloud deployment, built to grow with your user base.
 
-**Languages**
+</td>
+<td width="50%" valign="top">
 
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+### 🏗️ Architecture
+Maintainable codebases with clear separation of concerns, so features ship faster and bugs stay rare.
 
-**Mobile & Frameworks**
+</td>
+</tr>
+</table>
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<br/>
 
-**AI & Tools**
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Databases**
-
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white)
-
-**Cloud & Deployment**
-
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-
-**DevOps & Version Control**
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pawanbhandarry&theme=onedark&hide_border=false&include_all_commits=false&count_private=false" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanbhandarry&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=pawanbhandarry&theme=onedark&hide_border=false" />
-</p>
-
----
+## ◆ Tech Stack
 
 <div align="center">
 
-[![Profile Views](https://visitcount.itsvg.in/api?id=pawanbhandarry&icon=0&color=0)](https://visitcount.itsvg.in)
+**Mobile**<br/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java&theme=dark" /><br/><br/>
 
-*Thanks for stopping by — feel free to explore my repositories and reach out!* 🚀
+**Backend**<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,js,ts&theme=dark" /><br/><br/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Databases & BaaS**<br/>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,postgres,mysql,sqlite&theme=dark" /><br/><br/>
+
+**Cloud & DevOps**<br/>
+<img src="https://skillicons.dev/icons?i=docker,git,github,cloudflare,netlify,heroku&theme=dark" /><br/><br/>
+
+**Design & Tooling**<br/>
+<img src="https://skillicons.dev/icons?i=figma,postman,androidstudio,vscode&theme=dark" /><br/><br/>
+
+**AI**<br/>
+<img src="https://img.shields.io/badge/OpenAI-0B1220?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-0B1220?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Claude-0B1220?style=for-the-badge&logo=anthropic&logoColor=white" />
+
+</div>
+
+<br/>
+
+## ◆ Featured Projects
+
+> Replace the placeholders below with your best 3 to 4 projects (name, one-line pitch, stack, link).
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🔹 Project One
+One-line pitch about what it does and who it is for.
+
+`Flutter` `Express.js` `AI`
+
+[View project →](https://github.com/pawanbhandarry)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔹 Project Two
+One-line pitch about what it does and who it is for.
+
+`Flutter` `Firebase`
+
+[View project →](https://github.com/pawanbhandarry)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔹 Project Three
+One-line pitch about what it does and who it is for.
+
+`Flutter` `Supabase` `AI`
+
+[View project →](https://github.com/pawanbhandarry)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ◆ How I Work
+
+```mermaid
+flowchart LR
+    A[Idea & Scope] --> B[UI / UX Design]
+    B --> C[Flutter App]
+    C --> D[Express API & DB]
+    D --> E[AI Integration]
+    E --> F[Test & Release]
+    style A fill:#0B1220,stroke:#02A8F3,color:#fff
+    style B fill:#0B1220,stroke:#02A8F3,color:#fff
+    style C fill:#0B1220,stroke:#02A8F3,color:#fff
+    style D fill:#0B1220,stroke:#02A8F3,color:#fff
+    style E fill:#0D47A1,stroke:#02A8F3,color:#fff
+    style F fill:#0B1220,stroke:#02A8F3,color:#fff
+```
+
+<br/>
+
+## ◆ GitHub Activity
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pawanbhandarry&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=02A8F3&icon_color=02A8F3&text_color=C9D1D9&ring_color=02A8F3" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanbhandarry&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B1220&title_color=02A8F3&text_color=C9D1D9" />
+
+<img src="https://streak-stats.demolab.com?user=pawanbhandarry&theme=tokyonight&hide_border=true&background=0B1220&ring=02A8F3&fire=02A8F3&currStreakLabel=02A8F3" />
+
+</div>
+
+<br/>
+
+## ◆ Let's Build Something
+
+Have an app idea, an AI feature you want to ship, or a product that needs a reliable developer? I'm always open to meaningful projects and collaborations.
+
+<div align="center">
+
+<a href="mailto:bhandarrypawan@gmail.com"><img src="https://img.shields.io/badge/Email-Get%20in%20touch-0D47A1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/pawan-b-rijal-b33654229"><img src="https://img.shields.io/badge/LinkedIn-Connect-0B1220?style=for-the-badge&logo=linkedin&logoColor=02A8F3" /></a>
+<a href="https://instagram.com/bhandarrypawan77"><img src="https://img.shields.io/badge/Instagram-Follow-0B1220?style=for-the-badge&logo=instagram&logoColor=02A8F3" /></a>
+
+<br/><br/>
+
+<sub>Thanks for stopping by. Explore the repositories and reach out anytime.</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:02A8F3,50:0D47A1,100:0B1220&section=footer" width="100%" alt="footer" />
 
 </div>
