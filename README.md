@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1020,45:5B21B6,100:06B6D4&text=Pawan%20Bhandari&fontColor=FFFFFF&fontSize=62&fontAlignY=36&desc=Mobile%20%C2%B7%20Web%20%C2%B7%20Applied%20AI%20Engineer&descColor=E0F2FE&descSize=22&descAlignY=58&animation=twinkling" width="100%" alt="Pawan Bhandari" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0A0A0B,50:1C1917,100:3A2E1C&text=Pawan%20Bhandari&fontColor=E6CF9C&fontSize=62&fontAlignY=36&desc=Mobile%20%C2%B7%20Web%20%C2%B7%20Applied%20AI%20Engineer&descColor=A8A29E&descSize=22&descAlignY=58&animation=twinkling" width="100%" alt="Pawan Bhandari" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=22D3EE&center=true&vCenter=true&width=760&lines=I+build+Flutter+apps+people+actually+use;Next.js+landing+pages+and+dashboards+that+convert;Node.js+backends+that+scale+quietly;AI+features+that+earn+their+place+in+the+product" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3200&pause=1000&color=C9A96E&center=true&vCenter=true&width=760&lines=I+build+Flutter+apps+people+actually+use;Next.js+landing+pages+and+dashboards+that+convert;Node.js+backends+that+scale+quietly;AI+features+that+earn+their+place+in+the+product" alt="Typing SVG" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/3%2B-YEARS%20EXPERIENCE-0B1020?style=for-the-badge&labelColor=0B1020&color=22D3EE" />
-<img src="https://img.shields.io/badge/20%2B-APPS%20SHIPPED-0B1020?style=for-the-badge&labelColor=0B1020&color=8B5CF6" />
-<img src="https://img.shields.io/badge/FULL--STACK-DESIGN%20%E2%86%92%20LAUNCH-0B1020?style=for-the-badge&labelColor=0B1020&color=22D3EE" />
+<img src="https://img.shields.io/badge/3%2B-YEARS%20EXPERIENCE-0A0A0B?style=for-the-badge&labelColor=0A0A0B&color=C9A96E" />
+<img src="https://img.shields.io/badge/20%2B-APPS%20SHIPPED-0A0A0B?style=for-the-badge&labelColor=0A0A0B&color=E6CF9C" />
+<img src="https://img.shields.io/badge/FULL--STACK-DESIGN%20%E2%86%92%20LAUNCH-0A0A0B?style=for-the-badge&labelColor=0A0A0B&color=C9A96E" />
 
 <br/><br/>
 
@@ -84,9 +84,9 @@ Secure, well-structured REST services with authentication, real-time data and pa
 #### 🧠 &nbsp;AI Integration
 My specialty: LLM and vision features inside mobile and web products, from prompt pipelines to streaming UI.
 
-<img src="https://img.shields.io/badge/OpenAI-0B1020?style=for-the-badge&logo=openai&logoColor=22D3EE" />
-<img src="https://img.shields.io/badge/Gemini-0B1020?style=for-the-badge&logo=googlegemini&logoColor=8B5CF6" />
-<img src="https://img.shields.io/badge/Claude-0B1020?style=for-the-badge&logo=anthropic&logoColor=22D3EE" />
+<img src="https://img.shields.io/badge/OpenAI-0A0A0B?style=for-the-badge&logo=openai&logoColor=C9A96E" />
+<img src="https://img.shields.io/badge/Gemini-0A0A0B?style=for-the-badge&logo=googlegemini&logoColor=E6CF9C" />
+<img src="https://img.shields.io/badge/Claude-0A0A0B?style=for-the-badge&logo=anthropic&logoColor=C9A96E" />
 
 </td>
 </tr>
@@ -157,10 +157,10 @@ Business management app focused on expenses, clarity and a clean everyday workfl
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pawanbhandarry&show_icons=true&hide_border=true&bg_color=0B1020&title_color=22D3EE&icon_color=8B5CF6&text_color=C7D2FE&ring_color=22D3EE" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanbhandarry&layout=compact&hide_border=true&bg_color=0B1020&title_color=22D3EE&text_color=C7D2FE" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=pawanbhandarry&show_icons=true&hide_border=true&bg_color=0A0A0B&title_color=C9A96E&icon_color=E6CF9C&text_color=A8A29E&ring_color=C9A96E" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pawanbhandarry&layout=compact&hide_border=true&bg_color=0A0A0B&title_color=C9A96E&text_color=A8A29E" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawanbhandarry&bg_color=0B1020&color=22D3EE&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pawanbhandarry&bg_color=0A0A0B&color=C9A96E&line=E6CF9C&point=FFFFFF&area=true&area_color=E6CF9C&hide_border=true" width="100%" />
 
 </div>
 
@@ -173,19 +173,17 @@ Business management app focused on expenses, clarity and a clean everyday workfl
 
 <br/><br/>
 
-<a href="mailto:bhandarrypawan@gmail.com"><img src="https://img.shields.io/badge/START%20A%20PROJECT-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/pawan-b-rijal-b33654229"><img src="https://img.shields.io/badge/LINKEDIN-0B1020?style=for-the-badge&logo=linkedin&logoColor=22D3EE" /></a>
-<a href="https://instagram.com/bhandarrypawan77"><img src="https://img.shields.io/badge/INSTAGRAM-0B1020?style=for-the-badge&logo=instagram&logoColor=8B5CF6" /></a>
+<a href="https://www.fiverr.com/itspawan7?public_mode=true"><img src="https://img.shields.io/badge/HIRE%20ME%20ON%20FIVERR-C9A96E?style=for-the-badge&logo=fiverr&logoColor=0A0A0B" /></a>
+<a href="mailto:bhandarrypawan@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0A0B?style=for-the-badge&logo=gmail&logoColor=C9A96E" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:06B6D4,55:5B21B6,100:0B1020&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3A2E1C,50:1C1917,100:0A0A0B&section=footer" width="100%" />
 
 </div>
 
 <!--
-TRUST BOOSTERS TO ADD LATER (uncomment and fill in):
+TRUST BOOSTER TO ADD LATER (uncomment and fill in):
 
 ### Client reviews
 > ★★★★★ "A specific, short quote about the result you delivered." — Client name, platform
 
-[![Fiverr](https://img.shields.io/badge/FIVERR-0B1020?style=for-the-badge&logo=fiverr&logoColor=22D3EE)](YOUR_FIVERR_PROFILE_URL)
 -->
