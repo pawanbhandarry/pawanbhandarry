@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/hero.svg" width="100%" alt="Pawan Bhandari - Mobile, Web and Applied AI Engineer" />
+  <img src="hero.svg" width="100%" alt="Pawan Bhandari - Mobile, Web and Applied AI Engineer" />
 </div>
 
 <br/>
