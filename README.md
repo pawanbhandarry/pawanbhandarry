@@ -15,7 +15,7 @@
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="divider.svg" width="100%" /></div>
 
 <br/>
 
@@ -28,7 +28,7 @@
 
 <br/>
 
-<div align="center"><img src="assets/divider.svg" width="100%" /></div>
+<div align="center"><img src="divider.svg" width="100%" /></div>
 
 <br/>
 
